@@ -1,0 +1,15 @@
+<svg id="Seta_Branca" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="179.509" height="280.014" viewBox="0 0 179.509 280.014">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_687" data-name="Retângulo 687" width="179.509" height="280.014" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1433" data-name="Grupo 1433" transform="translate(179.509) rotate(90)" opacity="0.65">
+    <g id="Grupo_1349" data-name="Grupo 1349" transform="translate(0 179.509) rotate(-90)">
+      <g id="Grupo_1348" data-name="Grupo 1348" clip-path="url(#clip-path)">
+        <path id="Caminho_1208" data-name="Caminho 1208" d="M62.363,167.1,163.8,61.248a35.658,35.658,0,0,0-1.075-50.417l-.956-.918a35.661,35.661,0,0,0-50.42,1.075L9.913,116.844a35.658,35.658,0,0,0,1.075,50.417l.958.918A35.658,35.658,0,0,0,62.363,167.1Z" transform="translate(4.955 101.078)" fill="none" stroke="#fff" stroke-width="0.75"/>
+        <path id="Caminho_1209" data-name="Caminho 1209" d="M11.826,9.218C26.086-3.857,48.381-2.71,62.349,10.675l104,99.659a36.271,36.271,0,0,1,2.575,2.732,35.586,35.586,0,0,1,8.6,22.6,36.2,36.2,0,0,1-10.082,26.022c-1.1,1.142-51.569,53.656-51.569,53.656a63.1,63.1,0,0,0-15.031-66.877L89.718,137.557l.022-.025L11.192,62.264A36.325,36.325,0,0,1,11.826,9.218Z" transform="translate(0.844 0.844)" fill="none" stroke="#fff" stroke-width="0.75"/>
+      </g>
+    </g>
+  </g>
+</svg>

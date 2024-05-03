@@ -1,0 +1,19 @@
+
+
+.hero {
+  overflow: hidden;
+}
+
+.seta-laranja {
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  width: 55vh;
+}
+
+.seta-verde {
+  position: absolute;
+  bottom: -100px;
+  right: -100px;
+  width: 55vh;
+}/*# sourceMappingURL=main.css.map */
